@@ -9,10 +9,6 @@ This repository contains the code, models, and analysis for my Economics Capston
 - Simulation tools to convert match context into expected outcomes
 - Visualisations and exports used in the write-up / presentation
 
-## How to run
 
-1. Create/activate a Python environment (3.11+ recommended)
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+
    
