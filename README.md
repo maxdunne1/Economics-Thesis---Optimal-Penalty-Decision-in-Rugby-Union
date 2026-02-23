@@ -17,16 +17,6 @@ The repository currently includes:
 - **Promotion & Relegation Probability Model**  
   A season-level simulation framework estimating promotion and relegation probabilities under different league states and match outcomes.
 
-## Purpose
-
-The objective of this project is to combine match-level probability models with season-level incentive structures in order to evaluate decision-making under competitive constraints.
-
-## Reproducibility
-
-- Implemented in Python (3.11+ recommended).
-- Dependencies listed in `requirements.txt`.
-- Simulation notebooks use fixed random seeds where appropriate.
-
 ## Status
 
 Active development. Models and documentation are being refined as the thesis progresses.
